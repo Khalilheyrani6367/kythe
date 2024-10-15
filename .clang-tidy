@@ -129,3 +129,4 @@ CheckOptions:
   modernize-pass-by-value.IncludeStyle: llvm
   modernize-replace-auto-ptr.IncludeStyle: llvm
   modernize-use-nullptr.NullMacros: 'NULL'
+begin
